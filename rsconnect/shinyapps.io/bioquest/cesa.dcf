@@ -1,0 +1,11 @@
+name: cesa
+title:
+username:
+account: bioquest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7734168
+bundleId: 6555855
+url: https://bioquest.shinyapps.io/cesa/
+when: 1669427980.67167
+lastSyncTime: 1669427980.67169
