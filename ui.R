@@ -28,9 +28,10 @@ shinyUI(fluidPage(
             textAreaInput("file5", "", value=Text,width="90%",height = "400px",
                           cols=3,rows = 100,resize = "both",placeholder=Text),
             tags$div(
-                tags$h3('Author'),
-                tags$h5('Victor'),
+                tags$h5('Author: Victor'),
                 tags$h5("Email: Victor@BioQuest.cn"),
+                tags$a(href="https://BioQuest.cn", "Website: BioQuest.cn"),
+                tags$br(),
                 tags$a(href="https://gitlab.com/BioQuest/CESA", "Source Code"))
         ),
         mainPanel(
