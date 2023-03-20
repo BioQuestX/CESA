@@ -29,9 +29,9 @@ shinyUI(fluidPage(
                           cols=3,rows = 100,resize = "both",placeholder=Text),
             tags$div(
                 tags$h3('Author'),
-                tags$h5('Chongyang Wang'),
-                tags$h5("Email: BioQuest@qq.com"),
-                tags$a(href="https://github.com/BioQuestX/CESA", "Github Repo"))
+                tags$h5('Victor'),
+                tags$h5("Email: Victor@BioQuest.cn"),
+                tags$a(href="https://gitlab.com/BioQuest/CESA", "Source Code"))
         ),
         mainPanel(
             tags$h1(tags$em("Caenorhabditis elegans"),"survival analysis"),
