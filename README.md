@@ -4,4 +4,4 @@
 
 A shiny APP: https://bioquest.shinyapps.io/cesa/
 
-![CESA](https://user-images.githubusercontent.com/37234272/199023767-742302ab-df32-487c-ba8e-e47d347aca74.png)
+[![CESA](https://s1.ax1x.com/2023/03/20/pptr8eO.png)](https://imgse.com/i/pptr8eO)
